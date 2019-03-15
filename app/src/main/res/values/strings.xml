@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LeonardoMacedo-cursomobile</string>
+    <string name="title_Calculo">Cálculo do Peso Ideal</string>
+    <string name="btn_calcular">Calcular Peso</string>
+    <string name="radio_masc">Masculino</string>
+    <string name="radio_fem">Feminino</string>
+    <string name="title_altura">Altura</string>
+    <string name="title_sexo">Sexo</string>
+    <string name="hint_edit_altura">Digite sua altura</string>
+</resources>
