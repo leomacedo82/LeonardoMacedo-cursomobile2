@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Operadora">
+        <activity
+            android:name=".Operadora"
+            android:label="@string/title_page_op">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

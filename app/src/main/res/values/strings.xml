@@ -7,4 +7,13 @@
     <string name="title_altura">Altura</string>
     <string name="title_sexo">Sexo</string>
     <string name="hint_edit_altura">Digite sua altura</string>
+    <string name="hint_edit_minutos">Quantos minutos de ligação?</string>
+    <string name="title_op">Qual operadora usada?</string>
+    <string name="title_page_op">Calculo Operadora</string>
+    <string name="btn_calcular2">Calcular</string>
+    <string-array name="op_spin">
+        <item>OP1</item>
+        <item>OP2</item>
+        <item>OP3</item>
+    </string-array>
 </resources>
