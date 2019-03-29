@@ -43,6 +43,9 @@
     <string name="txtIdade">Entre com sua idade:</string>
     <string name="definirCategoria">Definir Categoria</string>
     <string name="Idade">Idade</string>
+    <string name="titleRestaurante">Entre com o nome e valor da conta:</string>
+    <string name="valorDaConta">Valor da Conta</string>
+    <string name="VerificarDesconto">Verificar Desconto</string>
     <string-array name="op_spin">
         <item>OP1</item>
         <item>OP2</item>
