@@ -50,6 +50,11 @@
         <item>Cálculo de Peso</item>
         <item>Operadora</item>
         <item>Animais</item>
+        <item>Peso no Planeta</item>
+        <item>Valor de Y</item>
+        <item>Média Unama</item>
+        <item>Categoria de Natação</item>
+        <item>Restaurante</item>
         <item>Cálculo de Gasolina</item>
     </string-array>
 </resources>

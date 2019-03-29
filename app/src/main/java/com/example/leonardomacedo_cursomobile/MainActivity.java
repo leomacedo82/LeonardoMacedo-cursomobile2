@@ -22,6 +22,11 @@ public class MainActivity extends AppCompatActivity {
         Class lista[] = {CalculoPeso.class,
                             Operadora.class,
                             Animais.class,
+                            PesoPlaneta.class,
+                            ValorY.class,
+                            MediaUnama.class,
+                            CategoriaNatacao.class,
+                            Restaurante.class,
                             CalculoGasolina.class};
 
         Intent i = new Intent(this, lista[posicao]);

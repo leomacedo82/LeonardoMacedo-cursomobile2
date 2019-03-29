@@ -9,33 +9,34 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".Restaurante"></activity>
+        <activity android:name=".CategoriaNatacao" />
+        <activity android:name=".MediaUnama" />
+        <activity android:name=".ValorY" />
+        <activity android:name=".PesoPlaneta" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <action android:name="android.intent.action.VIEW" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name=".PrecoGasolina"
-            android:label="@string/preco_gasolina">
-        </activity>
+            android:label="@string/preco_gasolina" />
         <activity
             android:name=".Animais"
-            android:label="@string/title_page_animais">
-        </activity>
+            android:label="@string/title_page_animais" />
         <activity
             android:name=".Operadora"
-            android:label="@string/title_page_op">
-        </activity>
+            android:label="@string/title_page_op" />
         <activity
             android:name=".CalculoPeso"
-            android:label="@string/title_Calculo">
-        </activity>
+            android:label="@string/title_Calculo" />
         <activity
             android:name=".CalculoGasolina"
-            android:label="@string/calculo_gasolina">
-        </activity>
+            android:label="@string/calculo_gasolina" />
     </application>
 
 </manifest>
