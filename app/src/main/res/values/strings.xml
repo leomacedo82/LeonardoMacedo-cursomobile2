@@ -40,6 +40,9 @@
     <string name="av1">Nota Av 1</string>
     <string name="av2">Nota Av 2</string>
     <string name="titleMediaUnama">Entre com suas informações:</string>
+    <string name="txtIdade">Entre com sua idade:</string>
+    <string name="definirCategoria">Definir Categoria</string>
+    <string name="Idade">Idade</string>
     <string-array name="op_spin">
         <item>OP1</item>
         <item>OP2</item>
