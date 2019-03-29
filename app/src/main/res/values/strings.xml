@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">LeonardoMacedo-cursomobile</string>
+    <string name="calculo_gasolina">GASAPP</string>
+    <string name="preco_gasolina">Valor da Gasolina</string>
     <string name="title_Calculo">Cálculo do Peso Ideal</string>
     <string name="btn_calcular">Calcular Peso</string>
     <string name="radio_masc">Masculino</string>
@@ -9,11 +11,45 @@
     <string name="hint_edit_altura">Digite sua altura</string>
     <string name="hint_edit_minutos">Quantos minutos de ligação?</string>
     <string name="title_op">Qual operadora usada?</string>
-    <string name="title_page_op">Calculo Operadora</string>
+    <string name="title_page_op">Cálculo Operadora</string>
     <string name="btn_calcular2">Calcular</string>
+    <string name="title_page_animais">Tipo de Animal</string>
+    <string name="title_animais">Escolha as características do Animal:</string>
+    <string name="title_cat1">Categoria 1:</string>
+    <string name="title_cat2">Categoria 2:</string>
+    <string name="title_cat3">Categoria 3:</string>
+    <string name="hint">aaa</string>
+    <string name="button_calcular1">CALCULAR</string>
+    <string name="modelo_automovel">Modelo do automóvel:</string>
+    <string name="distancia">Distância (km):</string>
+    <string name="potencia">Potência do motor:</string>
+    <string name="valorLitro">Valor do litro da gasolina:</string>
+    <string name="buttonCompartilhar">Compartilhar</string>
+    <string name="activity_title">Escolha a Activity:</string>
+    <string name="executar">Executar</string>
     <string-array name="op_spin">
         <item>OP1</item>
         <item>OP2</item>
         <item>OP3</item>
+    </string-array>
+    <string-array name="animal_nivel1_spin">
+        <item>vertebrado</item>
+        <item>invertebrado</item>
+    </string-array>
+    <string-array name="animal_nivel2_spin">
+        <item>OP1</item>
+        <item>OP2</item>
+        <item>OP3</item>
+    </string-array>
+    <string-array name="animal_nivel3_spin">
+        <item>OP1</item>
+        <item>OP2</item>
+        <item>OP3</item>
+    </string-array>
+    <string-array name="activity_lista">
+        <item>Cálculo de Peso</item>
+        <item>Operadora</item>
+        <item>Animais</item>
+        <item>Cálculo de Gasolina</item>
     </string-array>
 </resources>
