@@ -27,6 +27,8 @@
     <string name="buttonCompartilhar">Compartilhar</string>
     <string name="activity_title">Escolha a Activity:</string>
     <string name="executar">Executar</string>
+    <string name="titlePeso">Digite seu Peso na Terra:</string>
+    <string name="titlePlanetas">Escolha o Planeta:</string>
     <string-array name="op_spin">
         <item>OP1</item>
         <item>OP2</item>
@@ -56,5 +58,13 @@
         <item>Categoria de Natação</item>
         <item>Restaurante</item>
         <item>Cálculo de Gasolina</item>
+    </string-array>
+    <string-array name="spin_planetas">
+        <item>Mercúrio</item>
+        <item>Vênus</item>
+        <item>Marte</item>
+        <item>Júpiter</item>
+        <item>Saturno</item>
+        <item>Urano</item>
     </string-array>
 </resources>
