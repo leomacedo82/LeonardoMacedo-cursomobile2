@@ -29,6 +29,17 @@
     <string name="executar">Executar</string>
     <string name="titlePeso">Digite seu Peso na Terra:</string>
     <string name="titlePlanetas">Escolha o Planeta:</string>
+    <string name="titleValorX">Entre com o valor de x:</string>
+    <string name="valorDeY">Valor de Y</string>
+    <string name="mediaUnama">Valor de Y</string>
+    <string name="categoriaNatacao">Categoria de Natação</string>
+    <string name="restaurante">Restaurante</string>
+    <string name="pesoPlaneta">Peso no planeta</string>
+    <string name="Principal">Lançador de apps</string>
+    <string name="nome">Nome</string>
+    <string name="av1">Nota Av 1</string>
+    <string name="av2">Nota Av 2</string>
+    <string name="titleMediaUnama">Entre com suas informações:</string>
     <string-array name="op_spin">
         <item>OP1</item>
         <item>OP2</item>

@@ -9,12 +9,24 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Restaurante"></activity>
-        <activity android:name=".CategoriaNatacao" />
-        <activity android:name=".MediaUnama" />
-        <activity android:name=".ValorY" />
-        <activity android:name=".PesoPlaneta" />
-        <activity android:name=".MainActivity">
+        <activity
+            android:name=".Restaurante"
+            android:label="@string/restaurante" />
+        <activity
+            android:name=".CategoriaNatacao"
+            android:label="@string/categoriaNatacao" />
+        <activity
+            android:name=".MediaUnama"
+            android:label="@string/mediaUnama" />
+        <activity
+            android:name=".ValorY"
+            android:label="@string/valorDeY" />
+        <activity
+            android:name=".PesoPlaneta"
+            android:label="@string/pesoPlaneta" />
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/Principal" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <action android:name="android.intent.action.VIEW" />
